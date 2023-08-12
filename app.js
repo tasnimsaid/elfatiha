@@ -101,7 +101,7 @@ let Counter29 = 0 ;
 
 
 
-let alif = ['ا','أ','إ','ى','آ'];
+let alif = ['ا','أ','إ','آ'];
 
 let laa = ['ل'];
 let haa = ['ح'];
@@ -111,7 +111,7 @@ let haae = ['ه' ,'ة'];
 let raa = ['ر'];
 let baa = ['ب'];
 let ine = ['ع'];
-let yaa = ['ي'];
+let yaa = ['ي','ى','ئ'];
  let noon = ['ن'];
 let kaf = ['ك'];
 let ouaou = ['و','ؤ'];
