@@ -47,11 +47,7 @@ function countWord() {
 let text = document.getElementById("text").value;
  text =text.trim();
 
- let words = text.split(" ").length ;
 
-
-   
-document.getElementById("best4").innerHTML=words;
   
    
 
@@ -135,7 +131,11 @@ let ttta = ['ث'];
 
 for(ch of text) {
 
+    let words = text.split(" ").length ;
+
+
    
+document.getElementById("best4").innerHTML=words;
 
  if (alif.includes(ch)){
     Counter1++
